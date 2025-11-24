@@ -1,13 +1,4 @@
 import { motion } from 'framer-motion'
-import {
-  SiPython,
-  SiPostgresql,
-  SiJupyter,
-  SiGit,
-  SiDocker,
-  SiVisualstudiocode,
-  SiGithub,
-} from 'react-icons/si'
 import { FaBrain, FaChartLine, FaEye } from 'react-icons/fa'
 import { BsFileEarmarkCode } from 'react-icons/bs'
 
