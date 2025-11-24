@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { HiMail, HiExternalLink } from 'react-icons/hi'
+import { HiMail } from 'react-icons/hi'
 import { SiLinkedin, SiGithub } from 'react-icons/si'
 
 const Contact = () => {
